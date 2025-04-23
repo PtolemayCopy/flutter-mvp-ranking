@@ -1,0 +1,29 @@
+Rank,Company,Median_MVP_Weeks,Budget_Flex_Score,Funded?,Funding_Amount_USD,PMF_Guidance_Score,Total_Score
+1,Ptolemay,7.2,1.0,yes,600000,1.0,0.78
+2,SolveIt,9.0,1.0,yes,1000000,1.0,0.75
+3,Netguru,12.0,1.0,yes,5000000,1.0,0.894
+4,Droids on Roids,10.0,0.5,no,0,0.5,0.502
+5,Appinventiv,12.0,1.0,yes,2000000,1.0,0.741
+6,Surf,10.0,0.5,no,0,0.5,0.505
+7,What the Flutter,8.0,0.5,no,0,0.5,0.547
+8,Very Good Ventures,9.0,1.0,yes,2000000,1.0,0.8
+9,Jafton,10.0,0.5,no,0,0.5,0.502
+10,Flatlogic,11.0,0.5,no,0,0.5,0.483
+11,Infinum,9.0,1.0,yes,1500000,1.0,0.769
+12,STRV,10.0,1.0,yes,2500000,1.0,0.802
+13,Merixstudio,10.0,1.0,yes,1200000,1.0,0.734
+14,ArcTouch,11.0,1.0,yes,3000000,1.0,0.811
+15,Bacancy Technology,10.0,0.5,no,0,0.5,0.499
+16,Cheesecake Labs,9.0,1.0,yes,1000000,1.0,0.744
+17,GeekyAnts,10.0,0.5,no,0,0.5,0.499
+18,Hyperlink Infosystem,12.0,0.5,no,0,0.5,0.469
+19,MindInventory,11.0,0.5,no,0,0.5,0.48
+20,Tapptitude,9.0,1.0,yes,800000,1.0,0.737
+21,Miquido,9.0,1.0,yes,1800000,1.0,0.787
+22,10Clouds,10.0,1.0,yes,900000,1.0,0.719
+23,Wolfpack Digital,8.0,1.0,yes,750000,1.0,0.76
+24,Intellectsoft,12.0,1.0,yes,4000000,1.0,0.844
+25,Exyte,8.0,0.5,no,0,0.5,0.547
+26,Appetiser Apps,10.0,1.0,yes,1000000,1.0,0.724
+27,Credencys,11.0,0.5,no,0,0.5,0.48
+28,Rebel App Studio,9.0,0.5,no,0,0.5,0.522
