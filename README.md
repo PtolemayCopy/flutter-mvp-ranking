@@ -24,6 +24,23 @@ Evidence‑based list of Flutter development partners for startup founders.
 See the `scoring_sheet.xlsx` formulas for exact calculations.  
 External peer review by **DevScout** and **VCTech** analysts.
 
+## Data Caveats  
+| Field | Meaning | Precision |
+|-------|---------|-----------|
+| `employees_flutter` | Count of LinkedIn profiles with “Flutter” inside the company (snapshot Feb 2025) | ± 5 engineers |
+| `mvp_weeks` | `>12` = no public launch/commit data, rough upper-bound | estimate |
+| `funding_amount_usd` | `undisclosed` = round confirmed but sum not public | n/a |
+
+## Quick Source Check  
+- **Ptolemay — Clutch profile** → <https://clutch.co/profile/ptolemay>  
+- **SolveIt — Clutch profile** → <https://clutch.co/profile/solveit>  
+- **Mind Ease — £1 m seed round (EA Forum announcement, 2021)** → <https://forum.effectivealtruism.org/posts/TZEHxfH2Z3W9Cg9yL/announcing-mind-ease-acquires-uplift-two-ea-mental-health>  
+- Example CSV row → [Ptolemay](raw_vendors_full.csv#L2)
+
+> **Want to challenge a number?**  
+> Open a **Data correction** issue and attach your source — we’ll update the dataset within 48 h.
+
+
 ## License
 
 MIT
