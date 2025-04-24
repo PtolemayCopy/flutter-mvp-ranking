@@ -2,6 +2,7 @@ name: "Data-correction request"
 description: "Challenge a claim in the ranking and provide supporting evidence."
 title: "[Data-Fix] <short summary>"
 labels: ["data-challenge", "needs-triage"]    
+assignees: ["PtolemayCopy"]
 
 body:
   - type: markdown
