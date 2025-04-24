@@ -1,0 +1,36 @@
+name: "Data-correction request"
+description: "Challenge a claim in the ranking and provide supporting evidence."
+title: "[Data-Fix] <short summary>"
+labels: ["data-challenge", "needs-triage"]    
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Read me first**  
+        Link solid evidence (Git commit, Crunchbase article, TechCrunch, etc.).  
+        If the claim is confirmed, auditors will update the score **and** this audit log.
+
+  - type: input
+    id: claim
+    attributes:
+      label: Claim you’re challenging
+      placeholder: "Ptolemay MVP launch time = 7 weeks"
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence link(s)
+      placeholder: |
+        https://github.com/PtolemayCopy/flutter-mvp-ranking/commit/abc123  
+        https://techcrunch.com/...
+    validations:
+      required: true
+
+  - type: input
+    id: impact
+    attributes:
+      label: Likely impact on score/rank (optional)
+      placeholder: "Speed score drops from 25 → 23"
